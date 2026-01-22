@@ -1,2 +1,4 @@
 # project_wellpath
-This repo contains python codes
+This repo consists of python codes
+
+## let's use responsibly
